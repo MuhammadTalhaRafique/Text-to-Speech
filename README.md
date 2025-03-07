@@ -12,7 +12,6 @@ This is a simple **Text-to-Speech (TTS)** web application built using **Flask**,
 ```
 /text-to-speech-app
 │── app.py                # Flask backend
-│── requirements.txt       # Dependencies
 │── Text.txt              # Sample text file (optional)
 │── templates/
 │   └── index.html        # Frontend UI
@@ -33,11 +32,6 @@ cd text-to-speech-app
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
-```
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
 ```
 
 ## Usage
@@ -73,10 +67,4 @@ Converts text to speech and returns the generated audio file.
 ## Dependencies
 - Flask
 - gTTS (Google Text-to-Speech)
-
-## License
-This project is open-source under the **MIT License**.
-
----
-Let me know if you need modifications or additional features! 🚀
 
