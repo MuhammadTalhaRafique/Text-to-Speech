@@ -23,7 +23,7 @@ This is a simple **Text-to-Speech (TTS)** web application built using **Flask**,
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/text-to-speech-app.git
+git clone https://github.com/MuhammadTalhaRafique/text-to-speech-app.git
 cd text-to-speech-app
 ```
 
